@@ -1,0 +1,3 @@
+[submodule "evalumate-server"]
+	path = evalumate-server
+	url = https://github.com/evalumate/evalumate-server.git

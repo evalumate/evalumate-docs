@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# spinx documentation
+_build
+
+# visual studio code
+.vscode/settings.json
