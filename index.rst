@@ -10,7 +10,7 @@ Welcome to EvaluMate's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   evalumate-server/docs/index
+   server/docs/index
    api
 
 
